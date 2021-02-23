@@ -11,7 +11,7 @@ kalem.left(90)
 kalem.fd(100) # fd = forward kısaltması
 kalem.lt(90)  # lt = left kısaltması
 kalem.fd(100)
-
+kalem.clear
 
 
 input()
